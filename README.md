@@ -102,8 +102,4 @@ If you’re behind a proxy or have restricted network access, you may need to:
 - Course reference: OpenCV University — Free TensorFlow/Keras course
   - https://opencv.org/university/free-tensorflow-keras-course/
 
-This repo is a learner project and is **not affiliated with or endorsed by OpenCV**.
 
-## License
-
-No license is provided by default. If you plan to share or reuse this code publicly, consider adding a license file (e.g., MIT) and ensure you have rights to any included datasets or assets.
